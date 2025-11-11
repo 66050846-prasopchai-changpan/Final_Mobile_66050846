@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final_Test_66050846</string>
+    <string name="Save">Save</string>
+    <string name="Noise_cancellation">Noise cancellation</string>
+    <string name="Num4824_13az">4824.13az</string>
+    <string name="firmware">Firmware</string>
+    <string name="atmos">ATMOS</string>
+    <string name="Firmware">Firmware</string>
+    <string name="power_supply">Power supply</string>
+    <string name="DT_5_0_v_dc_330ma">5.0 V DC, 330mA</string>
+    <string name="bluetooth_version">Bluetooth version</string>
+    <string name="bluetooth_5_0">Bluetooth 5.0</string>
+    <string name="frequency_range">Frequency range</string>
+    <string name="battery">Battery</string>
+    <string name="back">Back</string>
+    <string name="bzm_01">BZM-01</string>
+    <string name="headphone">HEADPHONE</string>
+    <string name="per_20">20%</string>
+    <string name="T_6hz_22khz">6Hz - 22kHz</string>
+    <string name="T_4824_13az">4824.13az</string>
+
+</resources>
